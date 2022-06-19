@@ -1,4 +1,4 @@
-<img src="[https://mir-s3-cdn-cf.behance.net/project_modules/fs/f1d0d572816947.5c2bcd89d519b.gif](https://camo.githubusercontent.com/9df79a4b48202f1ae9ea37ebdcf6949ad987b0bfb36166ba8b1581419d7468aa/68747470733a2f2f69302e77702e636f6d2f7461736b62636e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30392f314f463078454d6b5742762d36397a766d4e73365244512e6769663f6669743d313630302532433730302673736c3d31)"></img>
+<img src="https://enablejavascript.co/wp-content/uploads/2017/01/jstips-header-blog.gif"></img>
 
 <h1 align="center">Hi 👋, I'm Temuujin</h1>
 <h3 align="center">A passionate frontend developer from Mongolia</h3>
