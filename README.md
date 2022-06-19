@@ -1,4 +1,4 @@
-<img src="[https://i0.wp.com/taskbcn.com/wp-content/uploads/2018/09/1OF0xEMkWBv-69zvmNs6RDQ.gif?fit=1600%2C700&ssl=1](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f1d0d572816947.5c2bcd89d519b.gif)"></img>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/f1d0d572816947.5c2bcd89d519b.gif"></img>
 
 <h1 align="center">Hi 👋, I'm Temuujin</h1>
 <h3 align="center">A passionate frontend developer from Mongolia</h3>
