@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning **Javascript, React Native, Node JS, C++ ....**
 
-- 👨‍💻 All of my projects are available at [http://leap-1.live/](http://leap-1.live/)
+- 👨‍💻 All of my projects are available at [My-portfolio](https://my-portfolio-temuujin.vercel.app/)
 
-- 📝 I regularly write articles on [http://sobriquet2.blogspot.com/](http://sobriquet2.blogspot.com/)
+- 👨‍💻 All of my projects are available at [My-photography](https://my-photography-temuujin.vercel.app/)
+
+- 📝 I regularly write articles on [My-blog](http://sobriquet2.blogspot.com/)
 
 - 📫 How to reach me **sobritemka@gmail.com**
 
