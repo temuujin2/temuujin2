@@ -1,4 +1,4 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/leap-1-mini-games.appspot.com/o/giphy-2.gif?alt=media&token=bf6a061c-8d48-425d-9037-d8ff1bc9f30b" width="100%" height="100%"></img>
+<img src="https://firebasestorage.googleapis.com/v0/b/leap-1-mini-games.appspot.com/o/my-gif-11.gif?alt=media&token=33d5ab16-6607-484d-bef4-70cff7ef4405" width="100%" height="100%"></img>
 
 <h1 align="center">Hi 👋, I'm Temuujin</h1>
 <h3 align="center">A passionate frontend developer from Mongolia</h3>
