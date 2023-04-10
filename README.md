@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Temuujin</h1>
 <h3 align="center">A passionate frontend developer from Mongolia</h3>
-<img align="right" alt="Coding" width="400" src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif">
+<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/leap-1-mini-games.appspot.com/o/my-gif-2.gif?alt=media&token=c7b5edfc-654c-422e-a225-5ccf92dc5945">
 
 
 <p align="left"> <img width="60" src="https://cdn-icons-png.flaticon.com/512/924/924915.png" alt="temuujin2" /> </p>
