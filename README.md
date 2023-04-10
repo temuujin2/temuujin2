@@ -1,4 +1,4 @@
-<img src="https://enablejavascript.co/wp-content/uploads/2017/01/jstips-header-blog.gif"></img>
+<img src="https://firebasestorage.googleapis.com/v0/b/leap-1-mini-games.appspot.com/o/giphy-2.gif?alt=media&token=bf6a061c-8d48-425d-9037-d8ff1bc9f30b"></img>
 
 <h1 align="center">Hi 👋, I'm Temuujin</h1>
 <h3 align="center">A passionate frontend developer from Mongolia</h3>
