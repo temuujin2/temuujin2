@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Javascript, React Native, Node JS, C++ ....**
 
-- 👨‍💻 All of my projects are available at [My-portfolio](https://my-portfolio-temuujin.vercel.app/)
+- 👨‍💻 All of my projects are available at [My-portfolio](https://temuujin.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [My-photography](https://my-photography-temuujin.vercel.app/)
+- 👨‍💻 All of my projects are available at [My-photography](https://photography-temuujin.vercel.app/)
 
 - 📝 I regularly write articles on [My-blog](http://sobriquet2.blogspot.com/)
 
